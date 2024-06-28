@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python projects
-- 📫 How to reach me  email
+- 📫 How to reach me  emailss
 - 😄 Pronouns: 
 - ⚡ Fun fact: this is my first time here. newbie, but here it is fun!
 

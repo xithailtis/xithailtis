@@ -1,0 +1,1 @@
+copypaste.mjsimport clipboardy from 'clipboardy';export async function readClipboardContent() { 

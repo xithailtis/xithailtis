@@ -1,0 +1,1 @@
+ '[' exists, then keep the whole string.    //4)read the column under index 1, if it's not empty or

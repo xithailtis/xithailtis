@@ -1,0 +1,1 @@
+为星标async function routine6() {    console.log("开始-------------将所有邮件设置为星标")    await commonLib.wak

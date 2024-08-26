@@ -1,0 +1,1 @@
+ckThenWait("点击Create file", 772, 357, 5, 7)  await commonLib.moveClickThenWait("点击文件内容", 772, 357,

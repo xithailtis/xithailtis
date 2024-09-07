@@ -1,0 +1,1 @@
+oardy';export async function readClipboardContent() {  const text = await clipboardy.read();  re

@@ -1,0 +1,1 @@
+tab右键", 131, 55, 5, 7)  await commonLib.moveClickThenWait("第一个tab下拉关闭右边的窗口", 223, 309, 5, 7)  //上面
